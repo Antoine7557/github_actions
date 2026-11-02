@@ -1,5 +1,5 @@
 name: Multiple shells commands
-on:
+ono:
   push:
     branches:
       - "main"
